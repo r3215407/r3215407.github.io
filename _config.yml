@@ -5,7 +5,7 @@ url: "https://r3215407.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 头铁
+  title: 小小鲁肃
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Lately in my life, I've been repeatedly reminded of the power of practicing something regularly.</p>
+     <p>我不是天生的王者，但我骨子里流动着不让我低头的血液。</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
